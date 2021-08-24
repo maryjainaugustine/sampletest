@@ -1,5 +1,5 @@
 package Codility;
-
+// comments
 public class SequenceExample {
 
 	 public static void main(String args[]) {
